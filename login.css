@@ -56,13 +56,17 @@ button{
     cursor: pointer;
     width: 11.75rem;
     padding: 0.75rem;
-    border-radius: ;
+    text-decoration: none;
     font-size: medium;
+}
+button a{
+    text-decoration: none;
+    color: white;
 }
 
 .text-box{
     padding: 0.5em;
-    border-radius: ;
+
     border:none;
     background-color: lightgrey;
     width: 10rem;
